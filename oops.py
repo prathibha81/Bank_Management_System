@@ -1,5 +1,8 @@
 # Object Orinted Programing 
-"""Bank Management System"""
+# Bank Management System
+"""This code explains the major concepts of oops and helps you understand the impelementation of oops
+this accessed using objects creations
+"""
 
 from abc import ABC, abstractmethod
 
@@ -116,5 +119,6 @@ if __name__ == '__main__':
     transaction2.process_transaction()
 
     print("Done tests.")
+
 
 
